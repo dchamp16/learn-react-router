@@ -6,7 +6,6 @@ import BookList from "./pages/BookList";
 function App() {
   return (
     <>
-      <h1>this is a test</h1>
       <nav>
         <ul>
           <li>
